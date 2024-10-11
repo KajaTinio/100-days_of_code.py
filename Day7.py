@@ -1,3 +1,4 @@
+#HANGMAN
 import random
 lista_slow = ["jabłko", "pies", "kot", "gruszka"]
 liczba_prob = ["Pozostało Ci 8 żyć"]
