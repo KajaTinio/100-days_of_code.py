@@ -1,3 +1,4 @@
+#ROCK PAPER SCISSORS
 import random
 gracz = int(input("Co wybierasz? Kamień: [0], Papier[1], czy Nożyce [2]: "))
 lista = ["Kamień", "Papier", "Nożyce"]
