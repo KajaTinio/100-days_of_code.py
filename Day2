@@ -1,0 +1,12 @@
+print("Witaj w kalkulatorze napiwków!")
+koszt = float(input("Podaj koszt rachunku? $"))
+tip = int(input("Ile % napiwku chcesz dać? (10, 12, czy 15): "))
+osoby = int(input("Na ile osób chcesz podzielić swój rachunek: "))
+
+rachunek_z_tipem = tip / 100 * koszt + koszt
+rachunek_na_osobe = rachunek_z_tipem / osoby
+print("Tyle musi zapłacić każda osoba: 3$",round(rachunek_na_osobe, 2))
+
+
+
+
