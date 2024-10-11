@@ -1,0 +1,3 @@
+fw = input("Podaj nazwę swojego pupila: \n")
+fs = input("Podaj nazwę swojego miasta: \n")
+print("Taką nazwę wymyśliłem: ", fw + " " + fs)
